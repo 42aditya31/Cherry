@@ -2,7 +2,7 @@
 
 # 🎙️ **CHERRY - Your Voice-Activated Virtual Assistant** 🚀  
 
-![JARVIS Concept Art]([https://via.placeholder.com/800x200?text=JARVIS+Voice+Assistant](https://wallpapercave.com/wp/wp2133204.jpg))  
+![Cherry Concept Art](https://wallpapercave.com/wp/wp2133204.jpg)  
 *AI-Powered Personal Assistant.*  
 
 ---
